@@ -1,0 +1,10 @@
+title: Lucasnvp
+description: My blog of tech, ideas and proyects.
+author: Lucas Visser
+email: lucasnvp@gmail.com
+baseurl: ""
+url: "https://lucasnvp.github.io"
+
+theme: minima
+
+markdown: kramdown
